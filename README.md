@@ -1,4 +1,4 @@
-# Project: Swarm Robotics Volcano Research
+# Swarm Robotics Volcano Research
 Simulates a swarm of autonomous drones using gradient ascent algorithm to explore a static volcanic plume
 
 ## Requirements:
