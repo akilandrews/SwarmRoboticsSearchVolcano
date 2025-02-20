@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+.vagrant
+*.db
+client_secrets.json
+
